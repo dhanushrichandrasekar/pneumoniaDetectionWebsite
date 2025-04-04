@@ -55,9 +55,9 @@ Along with AI-powered detection, we also offer educational content about pneumon
 
 ---
 
-## 🎥 Demo Video of Website
+## 🎥 Demo 
 
-📽️ https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/4f77d65da2083341fa7bca5697cf975b008bb131/pneumoniaWebsiteDemo.mp4
+🎬 **[Watch the Website Demo](https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/4f77d65da2083341fa7bca5697cf975b008bb131/pneumoniaWebsiteDemo.mp4)**
 
 ---
 
