@@ -16,8 +16,15 @@ Along with AI-powered detection, we also offer educational content about pneumon
   - 🛡 **Prevention**: Learn preventive measures to reduce the risk of pneumonia.
   - ⚠ **Risk Factors**: Understand who is at higher risk and why.
   - 🏥 **Diagnosis**: Explore how pneumonia is diagnosed.
-
+    
 ---
+
+## 💡 How It Works
+1. Upload a chest X-ray image.
+2. Our Deep Learning Model (based on CNN) processes the image.
+3. The system predicts whether pneumonia is present.
+4. Results are displayed instantly with confidence scores.
+
 
 ## 📸 Sample snaps of Website
 
@@ -50,15 +57,7 @@ Along with AI-powered detection, we also offer educational content about pneumon
 
 ## 🎥 Video Demo
 
-📽️ https://github.com/dhanushrichandrasekar/imageSearchEngine/blob/ffc7cb3b10c42f0feed74aaabb796561378bcd99/searchEngineDemo.mp4
-
----
-
-## 💡 How It Works
-1. Upload a chest X-ray image.
-2. Our Deep Learning Model (based on CNN) processes the image.
-3. The system predicts whether pneumonia is present.
-4. Results are displayed instantly with confidence scores.
+📽️ https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/4f77d65da2083341fa7bca5697cf975b008bb131/pneumoniaWebsiteDemo.mp4
 
 ---
 
