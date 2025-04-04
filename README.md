@@ -25,6 +25,13 @@ Along with AI-powered detection, we also offer educational content about pneumon
 3. The system predicts whether pneumonia is present.
 4. Results are displayed instantly with confidence scores.
 
+---
+
+## 🎥 Demo 
+
+🎬 **[Watch the Website Demo](https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/4f77d65da2083341fa7bca5697cf975b008bb131/pneumoniaWebsiteDemo.mp4)**
+
+---
 
 ## 📸 Sample snaps of Website
 
@@ -52,12 +59,6 @@ Along with AI-powered detection, we also offer educational content about pneumon
 ### 📝 **Results of Detection of Pneumonia **
 ![Normal](https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/f3eb436d21b3fe3710a47593488ff3ede75fdc08/sampleSS/res_normal.png)
 ![Pneumonia](https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/f3eb436d21b3fe3710a47593488ff3ede75fdc08/sampleSS/res_pneumonia.png)
-
----
-
-## 🎥 Demo 
-
-🎬 **[Watch the Website Demo](https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite/blob/4f77d65da2083341fa7bca5697cf975b008bb131/pneumoniaWebsiteDemo.mp4)**
 
 ---
 
