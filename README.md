@@ -19,6 +19,11 @@ Along with AI-powered detection, we also offer educational content about pneumon
     
 ---
 
+## 📌 Note
+The source code and full implementation will be uploaded soon. Stay tuned for updates!
+
+---
+
 ## 💡 How It Works
 1. Upload a chest X-ray image.
 2. Our Deep Learning Model (based on CNN) processes the image.
@@ -90,11 +95,6 @@ Along with AI-powered detection, we also offer educational content about pneumon
 
 ## 🤖 AI Model Details
 Our Convolutional Neural Network (CNN) is trained on a curated dataset of pneumonia X-ray images to achieve optimal accuracy. The model incorporates **VGG19** for robust feature extraction, ensuring high performance even in challenging cases.
-
----
-
-## 📌 Note
-The source code and full implementation will be uploaded soon. Stay tuned for updates!
 
 ---
 
